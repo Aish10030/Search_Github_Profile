@@ -17,6 +17,8 @@ Users can enter a username in the search bar, and the application fetches and di
 
 **Demo:**
 
+https://aish10030.github.io/Search_Github_Profile/
 
- 
 **Screenshot:**
+
+![image](https://github.com/Aish10030/Search_Github_Profile/assets/90953792/15e24fd2-459f-44f7-8322-34b778d20893)
